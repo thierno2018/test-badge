@@ -1,6 +1,11 @@
 # watch -- Utilities for watching file trees in node.js
 
+
+[![Build Status](https://travis-ci.org/thierno2018/test-badge.svg?branch=master)](https://travis-ci.org/thierno2018/test-badge)
+
+
 ## Install
+
 
 <pre>
   npm install watch
