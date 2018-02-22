@@ -4,6 +4,10 @@
 [![Build Status](https://travis-ci.org/thierno2018/test-badge.svg?branch=master)](https://travis-ci.org/thierno2018/test-badge)
 
 
+[![Build Status](https://david-dm.org/thierno2018/test-badge.svg?branch=master)](https://david-dm.org/thierno2018/test-badge)
+
+
+
 ## Install
 
 
