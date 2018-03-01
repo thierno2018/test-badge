@@ -1,7 +1,6 @@
 # watch -- Utilities for watching file trees in node.js
 
-[![NPM version](http://img.shields.io/npm/v/watch.svg)](https://www.npmjs.org/package/watch)[![Build Status](https://travis-ci.org/thierno2018/test-badge.svg?branch=master)](https://travis-ci.org/thierno2018/test-badge)[![dependencies Status](https://david-dm.org/mikeal/watch/status.svg)](https://david-dm.org/mikeal/watch)[![devDependencies Status](https://david-dm.org/thierno2018/test-badge/status.svg)](https://david-dm.org/thierno2018/test-badge)
-
+[![NPM version](http://img.shields.io/npm/v/watch.svg)](https://www.npmjs.org/package/watch)[![Build Status](https://travis-ci.org/thierno2018/test-badge.svg?branch=master)](https://travis-ci.org/thierno2018/test-badge)[![dependencies Status](https://david-dm.org/mikeal/watch/status.svg)](https://david-dm.org/mikeal/watch)[![devDependencies Status](https://david-dm.org/thierno2018/test-badge/dev-status.svg)](https://david-dm.org/thierno2018/test-badge?type=dev)
 
 ## Install
 
